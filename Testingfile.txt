@@ -1,1 +1,3 @@
 Hello Now Iam Testing My Understanding...!!
+
+I tried Creating newfile, modifing the existing file, Pushing Local directory to git repository project and also git to local code pulling....!!!
